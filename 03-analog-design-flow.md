@@ -1,6 +1,6 @@
 ---
-title: Training/analog
-subtitle: Analog design flow with opensource tools
+title: Analog design flow
+subtitle: Analog design flow
 description: UNIC-CASS Training materials
 ---
 

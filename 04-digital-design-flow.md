@@ -1,5 +1,5 @@
 ---
-title: Training/digital
+title: Digital Design Flow
 subtitle: Digital Design Flow
 description: UNIC-CASS Training materials
 ---

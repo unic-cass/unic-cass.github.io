@@ -1,5 +1,5 @@
 ---
-title: Training/verification
+title: Functional Verification
 subtitle: Functional verification
 description: UNIC-CASS Training materials
 ---

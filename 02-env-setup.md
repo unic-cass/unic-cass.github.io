@@ -1,6 +1,6 @@
 ---
-title: Training/setup
-subtitle: Environment Setup 
+title: Environment Setup
+subtitle: Env Setup 
 description: Environment Setup
 ---
 

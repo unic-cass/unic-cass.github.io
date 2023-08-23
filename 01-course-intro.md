@@ -1,5 +1,5 @@
 ---
-title: course-intro
+title: Course Introduction
 subtitle: Course Introduction 
 description: Lesson 1: course introduction
 ---

@@ -1,5 +1,5 @@
 ---
-title: Training/tapeout
+title: Preparing the design for tapeout
 subtitle: Preparing the design for tapeout
 description: UNIC-CASS Training materials
 ---

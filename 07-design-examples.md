@@ -1,5 +1,5 @@
 ---
-title: Training/examples
+title: Design examples
 subtitle: Design examples
 description: UNIC-CASS Training materials
 ---
