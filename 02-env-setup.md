@@ -3,12 +3,6 @@ title: Environment Setup
 subtitle: Env Setup 
 description: Environment Setup
 ---
-<style>
-.gdriveVideo {
-  width:854; 
-  height:480; 
-}
-</style>
 
 # 2 Design tool installation & working environment setup
 

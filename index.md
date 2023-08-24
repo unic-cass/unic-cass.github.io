@@ -6,6 +6,7 @@ description: Introduction and Overview
 
 Welcome to the IEEE Circuits and Systems Society (CASS) UNIC-CASS page! 
 
-Join the UNIC-CASS Slack Workspace: [https://join.slack.com/t/unic-cass/shared_invite/zt-1xxifr0ow-n8dpt0qNBxb4J50g8MEvmw](https://join.slack.com/t/unic-cass/shared_invite/zt-1xxifr0ow-n8dpt0qNBxb4J50g8MEvmw)
+Join the UNIC-CASS Slack Workspace:
 
-For design teams, you can access [UNIC-CASS Training Materials](unic-cass-training.html)
+https://join.slack.com/t/unic-cass/shared_invite/zt-1xxifr0ow-n8dpt0qNBxb4J50g8MEvmw
+
