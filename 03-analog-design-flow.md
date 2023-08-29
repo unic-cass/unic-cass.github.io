@@ -10,28 +10,31 @@ description: UNIC-CASS Training materials
 
 ### 3.1.1 Basic schematic editing in Xschem and basic simulation using ngspice
 
-<iframe src="https://drive.google.com/file/d/16QHJ2QJ3wtigY7a76WBvVNBC3At7yqIO/preview" width="854" height="480" allow="autoplay"></iframe>
+<div style="width: 854px;padding:56.22% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/857523977?h=b0d7fc234a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3.1.1 editing_and_sim"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### 3.1.2 View the simulation waveform in GAW 
-<iframe src="https://drive.google.com/file/d/16RSar5eOs2DpZL9HL_jL3EJSOB_E8rj_/preview" width="854" height="480" allow="autoplay" width="854" height="480"></iframe>
+<div style="width: 854px;padding:56.22% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/857523938?h=64f126abcd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3.1.2 probe_to_gaw"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### 3.1.3 An inverter schematic in Xschem with Skywater 130nm
 
-<iframe src="https://drive.google.com/file/d/16uBqfTO63dll5aKvu0e-vnbq8WlfGk7S/preview" width="854" height="480" allow="autoplay"></iframe>
+<div style="width: 854px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/857488204?h=52f8dfc261&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3.1.3-CMOS Inverter VTC and Transient Simulation Tutorial Using Xschem and Ngspice-(1080p)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### Lecture notes:
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRgpYHCoXmXvQMwIcbrLutnmO4ElZHKCFAVDMIaYGtlapI4VHwsKH6segvAVMrsrNh7z3tEMzSCihmH/pub?embedded=true" width="854" height="480"></iframe>
 
-### 3.1.4 Hierachical schematic captures in Xschem & transient simulation
+### 3.1.4 Symbol creation in Xschem
+<div style="width: 854px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/857488727?h=a61d8d46ca&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3.1.4-Symbol creation in Xschem"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<iframe src="https://drive.google.com/file/d/16rIJ7mNlC9xVlHDUZnsDg32ypx6zLhQq/preview" width="854" height="480" allow="autoplay"></iframe>
+### 3.1.5 Hierachical schematic captures in Xschem & transient simulation
+
+<div style="width: 854px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/857488415?h=0143779930&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3.1.4 Hierachical schematic captures in Xschem and time-domain simulation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### Lecture notes
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vR2P_tv1EB8HSAe2PgB1ZCT19beXuoB_LJuONR7OxPVVQv-7-7lmKH863Bxi4zSGEZL_Wl-kf3hMMUI/pub?embedded=true" width="854" height="480"></iframe>
 
 ## 3.2 Design layout and design rule check with Magic
-<iframe src="https://drive.google.com/file/d/1DscXUBeLaX2z50HygtxyKVEzoIqOOX0c/preview" width="854" height="480" allow="autoplay"></iframe>
+<div style="width: 854px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/857488925?h=1bbae6f995&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3.2-Creating a Hierarchical Layout in Magic Using the Sky130 PDK-(1080p)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### Lecture notes
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQyaAR7ulvcvuFVwqo_H-B3sIWxMT6CJ_oDpUjsowWgPTXi1Oa0CqkIB5aups4KV9Y5-MnLJXQI-QQw/pub?embedded=true" width="854" height="480"></iframe>
@@ -41,7 +44,7 @@ To be completed
 ## 3.4 Design Rule check using KLayout
 To be completed
 ## 3.5 Layout-Versus-Schematic using Netgen
-<iframe src="https://drive.google.com/file/d/16rV8TCDgm35xp7gonP28Q9pAZyC2DcyT/preview" width="854" height="480" allow="autoplay"></iframe>
+<div style="width: 854px;padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/857489396?h=fdf886af26&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3.5 Layout-Versus-Schematic using Netgen"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### Lectue notes
 
