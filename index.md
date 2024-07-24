@@ -1,11 +1,12 @@
 ---
 title: Home
-subtitle: Universalization in IC by IEEE CASS
-description: Introduction and Overview
+layout: home
 ---
 
-Welcome to the IEEE Circuits and Systems Society (CASS) UNIC-CASS page! 
+Welcome to the IEEE Circuits and Systems Society (CASS) UNIC-CASS page!
 
-Join the UNIC-CASS Slack Workspace: [https://join.slack.com/t/unic-cass/shared_invite/zt-1xxifr0ow-n8dpt0qNBxb4J50g8MEvmw](https://join.slack.com/t/unic-cass/shared_invite/zt-1xxifr0ow-n8dpt0qNBxb4J50g8MEvmw)
+[UNIC-CASS Program homepage](https://ieee-cas.org/universalization-ic-design-cass-unic-cass)
 
-[Access training materials](unic-cass-training.html)
+[Join the UNIC-CASS Slack Workspace](https://join.slack.com/t/unic-cass/shared_invite/zt-1xxifr0ow-n8dpt0qNBxb4J50g8MEvmw)
+
+[Access training materials](/training/)
