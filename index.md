@@ -12,4 +12,4 @@ Welcome to the IEEE Circuits and Systems Society (CASS) UNIC-CASS page!
 
 [Join the UNIC-CASS Slack Workspace](https://join.slack.com/t/unic-cass/shared_invite/zt-1xxifr0ow-n8dpt0qNBxb4J50g8MEvmw)
 
-[Access training materials](/training/)
+[Access training materials](training/01-course-intro.md)
