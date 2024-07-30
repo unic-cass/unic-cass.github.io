@@ -1,6 +1,9 @@
 ---
 title: Home
 layout: home
+has_toc: false
+has_children: false
+nav_order: 0
 ---
 
 Welcome to the IEEE Circuits and Systems Society (CASS) UNIC-CASS page!
