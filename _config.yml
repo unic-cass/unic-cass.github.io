@@ -39,3 +39,25 @@ compress_html:
 #   syntax_highlighter_opts:
 #     block:
 #       line_numbers: true
+color_scheme: light
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: blue
+  cmdout:
+    title: Command outputs
+    color: grey-dk
+  shellcmd:
+    title: Terminal
+    color: green
+  wincmd:
+    title: Windows command prompt
+    color: green
+  video:
+    title: Lecture Video
+    color: grey-dk
+  command:
+    color: green
