@@ -7,3 +7,4 @@ nav_order: 6
 ---
 
 # 6 Design examples
+
